@@ -13,3 +13,6 @@ These are things or actions that the instances of the class can do - Like a user
 # Pseudo Code:
 This is where we use comments in our code or a separate file sometimes to basically brainstorm what we want to do. We use plain english to essentially build parts of our code.
 
+To help test python functions
+
+https://pythontutor.com/visualize.html#mode=edit

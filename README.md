@@ -15,3 +15,5 @@ This is where we use comments in our code or a separate file sometimes to basica
 
 # Self:
 Just what is this thing called self?  In JS it would be called this.  Basically it is referring to well it's self or in our cases each instance that we create
+
+https://app.peardeck.com/student/trqbciikq
